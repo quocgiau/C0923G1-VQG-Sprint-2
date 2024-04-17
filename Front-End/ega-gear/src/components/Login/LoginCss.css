@@ -1,0 +1,11 @@
+.log-in-1 {
+    --grid-col: 50%
+}
+
+.log-in-2 {
+    text-decoration: underline;
+}
+
+.log-in-3 {
+    display: none;
+}

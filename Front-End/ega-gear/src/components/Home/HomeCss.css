@@ -1,0 +1,24 @@
+.home-dis-1{
+    --section-padding: 0;
+    --section-margin: 64px 0 64px;
+    --section-padding-mb: 0;
+    --section-margin-mb: 32px 0 32px;
+}
+.home-dis-2{
+    --section-padding: 0;
+    --section-margin: 64px 0 64px;
+    --section-padding-mb: 0;
+    --section-margin-mb: 20px 0 20px;
+}
+.dis-img-1{
+    --image-scale:1
+}
+.home-dis-3{
+    --section-padding: 0;
+    --section-margin: 64px 0 64px;
+    --section-padding-mb: 0;
+    --section-margin-mb: 32px 0 32px;
+    --color-collection-item: transparent;
+    --grid-col-desktop:repeat(auto-fit, minmax(calc(100% / 8 - 1px ), 1fr));
+    --grid-col-mobile:repeat(8,clamp(8rem, 18vw, calc(100vw /  4 )));
+}

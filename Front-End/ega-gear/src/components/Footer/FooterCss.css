@@ -1,0 +1,6 @@
+.dis-1{
+    column-gap: var(--spacing-8);
+}
+.dis-2{
+    --rounded-input: 9999px
+}
